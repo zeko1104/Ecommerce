@@ -1,0 +1,77 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "name": "Book",
+      "image": "https://source.unsplash.com/random",
+      "price": "20.95",
+      "description": "This is a product description."
+    },
+    {
+      "id": "2",
+      "name": "Product2",
+      "image": "https://source.unsplash.com/random",
+      "price": "34.78",
+      "description": "This is a product description."
+    },
+    {
+      "id": "3",
+      "name": "Product3",
+      "image": "https://source.unsplash.com/random",
+      "price": "16.99",
+      "description": "This is a product description."
+    },
+    {
+      "id": "4",
+      "name": "Product4",
+      "image": "https://source.unsplash.com/random",
+      "price": "12.99",
+      "description": "This is a product description."
+    },
+    {
+      "id": "5",
+      "name": "Product5",
+      "image": "https://source.unsplash.com/random",
+      "price": "19.99",
+      "description": "This is a product description."
+    },
+    {
+      "id": "6",
+      "name": "Product6",
+      "image": "https://source.unsplash.com/random",
+      "price": "15.99",
+      "description": "This is a product description."
+    },
+    {
+      "id": "7",
+      "name": "Product7",
+      "image": "https://source.unsplash.com/random",
+      "price": "18.60",
+      "description": "This is a product description."
+    },
+    {
+      "id": "8",
+      "name": "Product8",
+      "image": "https://source.unsplash.com/random",
+      "price": "24.50",
+      "description": "This is a product description."
+    },
+    {
+      "id": "9",
+      "name": "Product9",
+      "image": "https://source.unsplash.com/random",
+      "price": "39.60",
+      "description": "This is a product description."
+    }
+  ],
+  "cart": [
+    {},
+    {
+      "id": "1",
+      "name": "Book",
+      "image": "https://source.unsplash.com/random",
+      "price": "20.95",
+      "description": "This is a product description."
+    }
+  ]
+}
