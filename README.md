@@ -1,3 +1,12 @@
+Used Technology:
+1.React.js
+2.Tailwind CSS
+3.Material UI
+4.React-Icons
+5.JSON Server
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
